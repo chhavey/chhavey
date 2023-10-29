@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Chhavi</h1>
+<h4 align="center">A passionate developer from India</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavey&style=flat&color=blue" alt="chhavey" /> </p>
+
+<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZsZ2N2amhnNTA2NzJodTduNGhuMDQwNHJkdTllcmhoYmg5emd5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="260" class="giphy-embed"></img> -->
+
+- 💬 Ask me about **React.js** </br>
+- 📫 How to reach me **guptachhavi880@gmail.com**
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chhavey&theme=dark" alt="GitHub Streak" /></a>
 
 <!--
 **chhavey/chhavey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
