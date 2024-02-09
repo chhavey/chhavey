@@ -5,7 +5,7 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZsZ2N2amhnNTA2NzJodTduNGhuMDQwNHJkdTllcmhoYmg5emd5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="260" class="giphy-embed"></img> -->
 
-- 💬 Ask me about **React.js** </br>
+- 💬 Ask me about **MERN Stack** </br>
 - 📫 How to reach me **guptachhavi880@gmail.com**
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chhavey&theme=dark" alt="GitHub Streak" /></a>
